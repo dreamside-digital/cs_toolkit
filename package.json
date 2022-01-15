@@ -45,7 +45,7 @@
     "react-share-stc": "^2.2.0",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
-    "shelljs": "^0.8.1",
+    "shelljs": "^0.8.5",
     "slugify": "^1.2.9",
     "survey-react": "^1.0.37",
     "surveyjs-editor": "^1.0.37",
